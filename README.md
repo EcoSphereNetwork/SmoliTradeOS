@@ -2,6 +2,8 @@
 SmoliTradeOS - Your privat and local, AI powered Crypto Bank operating system
 
 ___
+#EcoSphere-Networks | #SmoliTradeOS | #Smolit | #Smolitux-Suite | SmoliTrade
+___
 
 
 SmoliTradeOS (STO) ist ein Linux Betriebssystem und basiert auf QubesOS.
