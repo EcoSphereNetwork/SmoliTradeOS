@@ -2,7 +2,7 @@
 SmoliTradeOS - Your privat and local, AI powered Crypto Bank operating system
 
 ___
-#EcoSphere-Networks | #SmoliTradeOS | #Smolit | #Smolitux-Suite | #SmoliTrade
+#EcoSphere-Networks | #SmoliTrade | #Smolit | #Smolitux-Suite 
 ___
 
 
