@@ -39,32 +39,32 @@ Erklärung:
 ```
 
 - Dom0:
-	- only for Administrator
-	- download updates from official mirror
-	- download also updates from Smolitux mirror
-	- fully automated with Scripts and Bots 
+	- nur für Administratoren
+	- Updates vom offiziellen Mirror herunterladen
+	- lädt auch Updates vom Smolitux-Spiegel herunter
+	- vollständig automatisiert mit Skripten und Bots 
 - SysNet Qube:
 	- AdminNet
-		- only for Dom0
+		- nur für Dom0
 	- BotNet Qube:
-		- only for TradingBots
-	- AcademyNet:
-		- only for Moodlebox
+		- nur für TradingBots
+	- AkademieNet:
+		- nur für Moodlebox
 	- CloudNet:
-		- only for Freedombox
+		- nur für Freedombox
 - SmoliTrade Qube
-	- c/:after start the PC and boot SmoliTradeOS
-		- c/d/:auto Start Qube 
-		- c/d/:auto Full Screen Desktop mode
+	- c/:nach dem Starten des PCs und Booten von SmoliTradeOS
+		- c/d/:auto Qube starten 
+		- c/d/:automatisch Vollbild-Desktop-Modus
 	- SmoliTrade Server
-		- p/d/:Web-GUI SmoliTrade 
-		- p/:Web-GUI Freqtrade
-		- p/:Web-GUI OctoBot
+		- p/d/:Web-Benutzeroberfläche SmoliTrade 
+		- p/:Web-Benutzeroberfläche Freqtrade
+		- p/:Web-Benutzeroberfläche OctoBot
 	- Firewall
 	- Proxy
-	- Open-Cloud Qube  # Open-Cloud ist die Plattform mit der die Hardware Ressourcen                                  # bereit gestellt werden
+	- Open-Cloud Qube # Open-Cloud ist die Plattform mit der die Hardware Ressourcen # bereit gestellt werden
 	- p/:Freedombox Server
-		- p/:Web-GUI
+		- p/:Web-Benutzeroberfläche
 	- ...
 - Freqtrade Qube
 	- p/:Freqtrade Server
@@ -72,12 +72,11 @@ Erklärung:
 - OctoBot Qube
 	- p/:OctoBot Server
 	- ...
-- Academy Qube
-	- p/:Moodle Server
+- Akademie Qube
+	- p/:Moodle-Server
 		- p/:Web-GUI
 	- ...
 - Privat-Cloud Qube
 	- p/:Freedombox Server
 		- p/:Web-GUI
 	- ...
-
