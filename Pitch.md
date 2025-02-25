@@ -12,6 +12,7 @@ In einer Zeit, in der der sichere und effiziente Handel mit Kryptowährungen imm
 
 Zeitplan:
 
+    Phase 1
     Monat 1-2: Anforderungsanalyse und Planung
         Definition der funktionalen Anforderungen und Sicherheitsstandards.
         Erstellung eines detaillierten Projektplans mit Meilensteinen.
@@ -20,6 +21,7 @@ Zeitplan:
         Anpassung von QubesOS für die spezifischen Anforderungen des Kryptowährungshandels.
         Integration von Freqtrade und OctoBot in die Systemarchitektur.
 
+    Phase 2
     Monat 5-6: Entwicklung der SmoliTrade GUI
         Design und Implementierung einer intuitiven Benutzeroberfläche zur Verwaltung der Trading-Bots.
         Sicherstellung der nahtlosen Interaktion zwischen GUI und Backend-Komponenten.
@@ -32,6 +34,7 @@ Zeitplan:
         Durchführung umfangreicher Tests zur Sicherstellung der Systemstabilität und -sicherheit.
         Behebung identifizierter Fehler und Optimierung der Performance.
 
+    Phase 3
     Monat 9: Dokumentation und Schulung
         Erstellung von Benutzerhandbüchern und technischen Dokumentationen.
         Anbieten von Schulungen und Tutorials für Endbenutzer und Administratoren.
